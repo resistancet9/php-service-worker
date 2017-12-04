@@ -7,7 +7,6 @@
   <title> NOTIFICATION </title>
 </head>
 <body>
-  <input type="button" id="enable" value="ENABLE"/>
   <input type="button" id="send" value="SEND"/>
   <script src="main.js"></script>
 </body>
